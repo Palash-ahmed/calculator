@@ -26,7 +26,10 @@ input{
     grid-column: span 4;
     height: 80px;
     width: 400px;
+    box-shadow: inset -5px -5px 12px #ecf0f3,
+                 inset 5px 5px 12px rgba(0,0,0,.16);
     background-color: #ecf0f3;
+    border: none;
     border-radius: 30px;
     color: rgba(70, 70, 70);
     font-size: 30px;
